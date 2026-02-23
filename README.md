@@ -7,8 +7,6 @@ Three BERT-based foundation models were further pre-trained using a newly constr
 | Model | Base Model | Weights |
 |-------|-----------|---------|
 | **bi-KM-BERT** | [KM-BERT](https://github.com/KU-RIAS/KM-BERT-Korean-Medical-BERT) (Korean medical) | [🔗 HuggingFace](https://huggingface.co/silber2258/bi-KM-BERT) |
-| **bi-BioBERT** | [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2) (English biomedical) | [🔗 HuggingFace](https://huggingface.co/silber2258/bi-BioBERT) |
-| **bi-M-BERT** | [M-BERT](https://huggingface.co/bert-base-multilingual-cased) (Multilingual general) | [🔗 HuggingFace](https://huggingface.co/silber2258/bi-M-BERT) |
 
 Please refer to our paper: [Domain and Language adaptive pre-training of BERT models for Korean-English bilingual clinical text analysis](https://link.springer.com/article/10.1186/s12911-025-03262-7)
 
